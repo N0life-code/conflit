@@ -8,6 +8,7 @@
     <title>conflit</title>
 </head>
 <body>
+    <!-- faut modifier le code pour créer des conflits,  -->
     <h1>conflit</h1>
     <p>On va se battre toi et moi</p>
     <h2>La bagarre</h2>
