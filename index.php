@@ -9,9 +9,11 @@
 </head>
 <body>
     <h1>conflit</h1>
-    <p></p>
-    <h2></h2>
-    <p></p>
+    <p>On va se battre toi et moi</p>
+    <h2>La bagarre</h2>
+    <p>Je vais te goumer !</p>
+    <h2>La suite dans la suite</h2>
+    <p>Je veux un miroir sur la plafond.</p>
     
 </body>
 </html>
