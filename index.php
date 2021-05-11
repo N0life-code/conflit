@@ -13,7 +13,7 @@
     <h2>La bagarre</h2>
     <p>Je vais te goumer !</p>
     <h2>La suite dans la suite</h2>
-    <p>Je veux un miroir sur la plafond.</p>
+    <p>Je veux un miroir sur le plafond.</p>
     
 </body>
 </html>
